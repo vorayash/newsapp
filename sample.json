@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 939,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Steve Dent",
+      "title": "Report suggests NVIDIA is preparing to walk away from its ARM acquisition",
+      "description": "NVIDIA has reportedly made little to no progress in gaining regulatory approval for its $40 billion purchase of ARM and is privately preparing to abandon the deal, according to Bloomberg's sources. Meanwhile, current ARM owner SoftBank is reportedly advancing…",
+      "url": "https://www.engadget.com/nvidia-privately-admits-arm-deal-might-not-go-through-123542854.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/bf30ce30-47cc-11ec-afea-de6f8cee260c",
+      "publishedAt": "2022-01-25T12:35:42Z",
+      "content": "NVIDIA has reportedly made little to no progress in gaining regulatory approval for its $40 billion purchase of ARM and is privately preparing to abandon the deal, according to Bloomberg's sources. M… [+2424 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Morgan Meaker",
+      "title": "The EU Has a Plan to Fix Internet Privacy: Be More Like Apple",
+      "description": "Lawmakers want all websites to use a similar “Ask App Not to Track” function, but Apple's system might not be as clear-cut as once believed.",
+      "url": "https://www.wired.com/story/eu-digital-services-act-apple/",
+      "urlToImage": "https://media.wired.com/photos/61ef508fe365ac4c3753094c/191:100/w_1280,c_limit/Business_EU%20Building-180405277.jpg",
+      "publishedAt": "2022-01-25T12:00:00Z",
+      "content": "Like millions of other internet users in Europe, when Alexandra Geese, a German member of the European Parliament (MEP), wants to read something on the internet, she first has to open and scroll thro… [+4012 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Samuel Axon",
+      "title": "Here’s what Apple might announce at a spring event this March",
+      "description": "An iPhone SE, new iPads, and more ARM Macs? All possible.",
+      "url": "https://arstechnica.com/gadgets/2022/01/heres-what-apple-might-announce-at-a-spring-event-this-march/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/04/iPhone-SE-2020-front-760x380.jpeg",
+      "publishedAt": "2022-01-25T00:25:28Z",
+      "content": "Enlarge/ The 2020 iPhone SE.\r\n5 with 5 posters participating\r\nIt doesn't seem like that long ago that Apple announced a plethora of new iPhone, Apple Watch, and MacBook Pro computers, but we're likel… [+5321 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Swatch Group returns to profit, sees strong sales ahead - Reuters",
+      "description": "Swiss watchmaker Swatch Group <a href=\"https://www.reuters.com/companies/UHR.S\" target=\"_blank\">(UHR.S)</a> said it expected double-digit sales growth in local currencies this year after sales and profits recovered in 2021.",
+      "url": "https://www.reuters.com/business/retail-consumer/swatch-group-returns-profit-sees-strong-sales-ahead-2022-01-25/",
+      "urlToImage": "https://www.reuters.com/resizer/LQ-GqNJ-RYsvK3h6qwyAKULcM2g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AHNW3BPIWNK6ZGGFMSAOAQQLXY.jpg",
+      "publishedAt": "2022-01-25T06:21:00Z",
+      "content": "A Swatch logo is pictured in front of the newly built headquarters, designed by Japanese architect Shigeru Ban, of the brand owned by Swatch Group, in Biel, Switzerland October 3, 2019. Picture taken… [+1622 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Futures fall ahead of Fed meeting, corporate earnings - Reuters",
+      "description": "U.S. stock index futures fell on Tuesday following a turbulent start to the week, with investors keeping an eye out for the Federal Reserve meeting and a host of major earnings from companies including Microsoft.",
+      "url": "https://www.reuters.com/business/futures-fall-ahead-fed-meeting-corporate-earnings-2022-01-25/",
+      "urlToImage": "https://www.reuters.com/resizer/RoPfJAjw4caJaYbMRYbjYLFFIV8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QCX6WFFA4RPCHHWTOQM7E64SYQ.jpg",
+      "publishedAt": "2022-01-25T12:13:00Z",
+      "content": "Jan 25 (Reuters) - U.S. stock index futures fell on Tuesday following a turbulent start to the week, with investors keeping an eye out for the Federal Reserve meeting and a host of major earnings fro… [+2147 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "JPMorgan agrees to acquire 49% stake in Greek fintech Viva Wallet - Reuters",
+      "description": "JPMorgan <a href=\"https://www.reuters.com/companies/JPM.N\" target=\"_blank\">(JPM.N)</a> said on Tuesday it had agreed to acquire an around 49% stake in Athens-based payments fintech Viva Wallet, subject to regulatory approvals.",
+      "url": "https://www.reuters.com/technology/jpmorgan-agrees-acquire-49-stake-greek-fintech-viva-wallet-2022-01-25/",
+      "urlToImage": "https://www.reuters.com/resizer/-YF6qU7MaB9xgS3vJbEYPnRUtho=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BGXGJVF52ROJVFRKOY26Q3UUZA.jpg",
+      "publishedAt": "2022-01-25T11:42:00Z",
+      "content": "ATHENS, Jan 25 (Reuters) - JPMorgan (JPM.N) said on Tuesday it had agreed to acquire an around 49% stake in Athens-based payments fintech Viva Wallet, subject to regulatory approvals.\r\nFinancial term… [+2015 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Fed, Ukraine worries pressure stocks for third session - Reuters",
+      "description": "Emerging market shares fell sharply for a third straight session on Tuesday as the threat of Russia-Ukraine military conflict and wariness over U.S. monetary policy weighed on sentiment.",
+      "url": "https://www.reuters.com/markets/europe/fed-ukraine-worries-pressure-stocks-third-session-2022-01-25/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=69",
+      "publishedAt": "2022-01-25T09:43:00Z",
+      "content": "Jan 25 (Reuters) - Emerging market shares fell sharply for a third straight session on Tuesday as the threat of Russia-Ukraine military conflict and wariness over U.S. monetary policy weighed on sent… [+3085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Nicolás Rivera",
+      "title": "Nvidia se rinde con ARM: esperan que la compra no salga adelante y preparan su salida a bolsa",
+      "description": "La compra de ARM por parte de Nvidia no saldrá adelante. Bloomberg informa que la empresa norteamericana está comunicando a sus socios que no esperan que la operación salga adelante. Además, Softbank, actual propietaria de ARM, estaría preparando la salida a …",
+      "url": "https://hipertextual.com/2022/01/nvidia-se-rinde-con-arm-esperan-que-la-compra-no-salga-adelante-y-preparan-su-salida-a-bolsa",
+      "urlToImage": "https://hipertextual.com/wp-content/uploads/2020/09/hipertextual-nvidia-compra-arm-disenador-procesadores-2020669143.jpg",
+      "publishedAt": "2022-01-25T12:07:08Z",
+      "content": "La compra de ARM por parte de Nvidia no llegará a buen puerto. Bloomberg informa que la empresa norteamericana ya está comunicando a sus socios que no esperan que la operación salga adelante. Además,… [+1846 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Ivan Mehta",
+      "title": "How to easily set up a wallet for cryptocurrency and NFTs with MetaMask",
+      "description": "Welcome to TNW Basics, a collection of tips, guides, and advice on how to easily get the most out of your gadgets, apps, and other stuff. If you want to experience a metaverse, buy NFTs, or trade in cryptocurrency, it’s essential to have a wallet that’s easy …",
+      "url": "https://thenextweb.com/news/what-is-metamask-create-account-web3-nft-crypto",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2FMetamask-wallet.jpg&signature=eff9c8ea8d73f6e5278a87b2b64abcd9",
+      "publishedAt": "2022-01-25T12:29:30Z",
+      "content": "Welcome to TNW Basics, a collection of tips, guides, and advice on how to easily get the most out of your gadgets, apps, and other stuff.\r\nIf you want to experience a metaverse, buy NFTs, or trade in… [+2979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "Entre la superburbuja y el globo: por qué las grandes tecnológicas están cayendo entre un 10% y un 20%",
+      "description": "En octubre de 2021 Netflix hizo máximo histórico en bolsa. Sus acciones se cotizaban a 690 dólares. Desde entonces la caída ha sido espectacular, y en el cierre de ayer esas mismas acciones habían caído a 387 dólares. En lo que llevamos de año Netflix ha perd…",
+      "url": "https://www.xataka.com/empresas-y-economia/superburbuja-globo-que-grandes-tecnologicas-estan-cayendo-10-20",
+      "urlToImage": "https://i.blogs.es/5cf978/netflix-foto-portada/840_560.jpeg",
+      "publishedAt": "2022-01-25T11:01:41Z",
+      "content": "En octubre de 2021 Netflix hizo máximo histórico en bolsa. Sus acciones se cotizaban a 690 dólares. Desde entonces la caída ha sido espectacular, y en el cierre de ayer esas mismas acciones habían ca… [+3208 chars]"
+    },
+    {
+      "source": {
+        "id": "hacker-news",
+        "name": "Hacker News"
+      },
+      "author": null,
+      "title": "Hypercontext (YC S21) is hiring a SwiftUI developer",
+      "description": "We’re looking for a talented Swift UI Engineer to help build out the Hypercontext MacOS and iOS apps. As an important member of the Engineering team, you will build features that will integrate and scale our platform, mentor developers on your future team, an…",
+      "url": "https://www.ycombinator.com/companies/hypercontext/jobs/kVsnSnv-software-engineer-swift-ui-macos",
+      "urlToImage": "https://bookface-images.s3.amazonaws.com/logos/ccf3d85fc20475c5f739932c2e5adac5559d9603.png?1642702152",
+      "publishedAt": "2022-01-25T12:00:25Z",
+      "content": "Were looking for a talented Swift UI Engineer to help build out the Hypercontext MacOS and iOS apps. As an important member of the Engineering team, you will build features that will integrate and sc… [+2464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Github.com"
+      },
+      "author": "naimo84",
+      "title": "Node-Red",
+      "description": "A collection of interesting nodes and resources for Node-RED - GitHub - naimo84/awesome-nodered: A collection of interesting nodes and resources for Node-RED",
+      "url": "https://github.com/naimo84/awesome-nodered",
+      "urlToImage": "https://repository-images.githubusercontent.com/422856484/b1552b52-e7d8-4934-b08d-fd2fc3ad9a95",
+      "publishedAt": "2022-01-25T09:27:54Z",
+      "content": "Curated list of useful resources for Node-RED.\r\nNode-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways.\r\nIt provides a browser-based… [+9729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sourceforge.net"
+      },
+      "author": null,
+      "title": "The Ur-Quan Masters",
+      "description": "Comments",
+      "url": "http://sc2.sourceforge.net/",
+      "urlToImage": null,
+      "publishedAt": "2022-01-25T00:55:36Z",
+      "content": "About\r\nThe Ur-Quan Masters\r\nThe project started in August 2002, when Toys For Bob\r\n released the partially ported sources of Star Control 2 \r\n 3DO version to the fan community. Our goal is to port th… [+22341 chars]"
+    },
+    {
+      "source": {
+        "id": "vice-news",
+        "name": "Vice News"
+      },
+      "author": "Viola Zhou, Alan Wong",
+      "title": "They Were Reporters in Hong Kong. Now They Drive Cabs and Sell Fried Chicken.",
+      "description": "The demise of the city’s independent news outlets has left hundreds of journalists out of a job. Many are not coming back.",
+      "url": "https://www.vice.com/en/article/akvjd8/hong-kong-journalists-cabbies-fried-chicken",
+      "urlToImage": "https://video-images.vice.com/articles/61ef68d838835100961f4714/lede/1643097896822-image-from-ios-12.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NDl4aDsweHcsMC4xODU1eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq",
+      "publishedAt": "2022-01-25T08:56:24Z",
+      "content": "Following three decades of being a photojournalist, Lai was forced to make a career change at the age of 53. Last summer, police raided the newsroom of Apple Daily, Lai’s employer and Hong Kong’s mos… [+15765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "iPhone-13-Nutzer melden \"Rosa Bildschirm\"-Bug",
+      "description": "Besitzer der brandneuen Apple-Handys klagen über das sporadische Auftreten von Display-Verfärbungen. Offenbar ist das kein Hard- sondern ein Software-Problem.",
+      "url": "https://www.heise.de/news/iPhone-13-Nutzer-melden-Rosa-Bildschirm-Bug-6336091.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/2/6/2/0/8/1/iphone-13-og-2021-51c171ef6fbcd2cf.jpg",
+      "publishedAt": "2022-01-25T09:29:00Z",
+      "content": "Einige Käufer des im Herbst erschienenen iPhone 13 verschiedener Modellreihen also auch 13 Pro, 13 Pro Max und 13 Pro mini berichten über zufällig auftretende Verfärbungen des Bildschirms ihres Apple… [+2223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple TV+ market share grows in the US while Netflix loses ground to its competitors",
+      "description": "Apple has been aggressively investing in Apple TV+, its own streaming platform with original movies and TV shows. While Apple TV+ market share grew in 2021, the platform is still far behind its competitors with only 5% market share in the United States.\n more…",
+      "url": "https://9to5mac.com/2022/01/24/apple-tv-market-share-grows-in-the-us-while-netflix-loses-ground-to-its-competitors/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/06/apple-tv-plus-mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-01-25T01:04:46Z",
+      "content": "Apple has been aggressively investing in Apple TV+, its own streaming platform with original movies and TV shows. While Apple TV+ market share grew in 2021, the platform is still far behind its compe… [+1929 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Apple and Mercado Libre working to crack down on counterfeit products in Latin America",
+      "description": "It’s not hard to find counterfeit Apple products and accessories to buy online, especially when it comes to accessories like AirPods, chargers, and iPhone cases. Apple of course doesn’t like this at all, and the company is taking new measures to crack down on…",
+      "url": "https://9to5mac.com/2022/01/24/apple-and-mercado-libre-working-to-crack-down-on-counterfeit-products-in-latin-america/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/01/Apple-Counterfeit-Mercado-Libre.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-01-25T03:20:10Z",
+      "content": "It’s not hard to find counterfeit Apple products and accessories to buy online, especially when it comes to accessories like AirPods, chargers, and iPhone cases. Apple of course doesn’t like this at … [+1857 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "Twitter Flock timeline uncertain — designate up to 150 close friends",
+      "description": "Twitter revealed in July 2021 that it was working on a new alternative timeline for “Trusted Friends” as a way to let users share tweets that only selected people can see. Although the feature is not yet available to everyone, the company has now rebranded it…",
+      "url": "https://9to5mac.com/2022/01/24/twitter-flock-timeline-uncertain-designate-up-to-150-close-friends/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/10/Twitter-Spaces.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2022-01-25T00:05:54Z",
+      "content": "Twitter revealed in July 2021 that it was working on a new alternative timeline for “Trusted Friends” as a way to let users share tweets that only selected people can see. Although the feature is not… [+2129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Mike Murphy",
+      "title": "Key Words: Neil Young wants to remove his music from Spotify over Joe Rogan’s ‘disinformation’",
+      "description": "Rock icon Neil Young wants his music removed from Spotify, citing the spread of COVID-19 vaccine disinformation on the platform -- and calling out popular podcaster Joe Rogan in particular.",
+      "url": "https://www.marketwatch.com/story/neil-young-wants-to-remove-his-music-from-spotify-over-joe-rogans-disinformation-11643076048",
+      "urlToImage": "https://images.mktw.net/im-281273/social",
+      "publishedAt": "2022-01-25T02:00:00Z",
+      "content": "Rock icon Neil Young wants his music removed from Spotify, citing the spread of COVID-19 vaccine disinformation on the platform and calling out popular podcaster Joe Rogan in particular.In an open le… [+1591 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Amber Neely)",
+      "title": "Mercado Libre warns vendors against selling counterfeit Apple products",
+      "description": "Mercado Libre, a popular online marketplace in Latin America, plans to crack down on sales of counterfeit Apple products through its website.Online sellers who use Mercado Libre (also known as Mercado Livre in Brazil) have begun receiving emails warning again…",
+      "url": "https://appleinsider.com/articles/22/01/25/mercado-libre-warns-vendors-against-selling-counterfeit-apple-products",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/46668-91006-46545-90798-Lightning-Cable-AirPods-Pro-Box-Text-xl-xl.jpg",
+      "publishedAt": "2022-01-25T04:03:16Z",
+      "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1281 chars]"
+    }
+  ]
+}
