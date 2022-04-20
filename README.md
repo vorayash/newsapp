@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![Alt text](https://media.giphy.com/media/6AFp3q2Cbr5VPFqlos/giphy.gif)
+![Alt text](https://github.com/vorayash/Temp-Gif/blob/main/newsapp.gif)
 
 ## Available Scripts
 
