@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-https://media.giphy.com/media/6AFp3q2Cbr5VPFqlos/giphy.gif
+![Gif](https://media.giphy.com/media/6AFp3q2Cbr5VPFqlos/giphy.gif)
 
 ## Available Scripts
 
